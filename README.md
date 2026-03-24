@@ -12,7 +12,7 @@ Value depends on:
 ## Estimate Your Gold Value
 
 Use this calculator:
-👉 https://YOURUSERNAME.github.io/gold-price-calculator-uk/
+👉 https://moonstonegoldlimited.github.io/gold-price-calculator-uk/
 
 ## Sell Scrap Gold in the UK
 
