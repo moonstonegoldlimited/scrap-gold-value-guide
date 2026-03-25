@@ -5,23 +5,23 @@ Scrap gold includes broken jewellery, old rings, and unwanted gold items.
 ## How Scrap Gold is Valued
 
 Value depends on:
-- Weight
-- Purity
-- Market price
+- Weight  
+- Purity  
+- Current gold market price  
 
-## Estimate Your Gold Value
+## Estimate Your Scrap Gold Value
 
-Use this calculator:
-👉 https://moonstonegoldlimited.github.io/gold-price-calculator-uk/
+Use our free tool:
+👉 [UK Gold Price Calculator](https://moonstonegoldlimited.github.io/gold-price-calculator-uk/)
 
 ## Sell Scrap Gold in the UK
 
-For a trusted service:
+Looking for a trusted buyer?
 
-👉 https://moonstonegold.co.uk/sell-gold/
+👉 [Sell Scrap Gold in the UK](https://moonstonegold.co.uk/sell-gold/)
 
-## Tips
+## Tips for Getting the Best Price
 
-- Separate by purity
-- Avoid middlemen
-- Check live gold prices
+- Separate items by purity (9ct, 14ct, 18ct, etc.)  
+- Avoid unnecessary middlemen  
+- Check live gold prices before selling  
